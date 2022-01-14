@@ -1,0 +1,20 @@
+body
+{
+    background-color: #dfdfdf;
+}
+table,th,td
+{
+    border:solid ;
+    border-color: orange;
+    text-align: center;
+    
+}
+th:hover
+{
+    background-color: rgb(0, 255, 234);
+    cursor: pointer;
+}  
+td:hover{
+    background-color: orchid;
+    cursor: pointer;
+} 
